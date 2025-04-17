@@ -1,4 +1,4 @@
-# DevOps & SRE Assignment - Multi-Stage Scraper & Server
+# DevOps & SRE - Multi-Stage Scraper & Server
 
 This project shows how to combine Node.js and Python in a clean,multi-stage Docker build:
 
@@ -72,8 +72,9 @@ You'll see JSON data similar to:
 
 ```bash
 {
-  "title": "Example Domain",
-  "heading": "Example Domain"
+  "pageTitle": "My Awesome Site",
+  "heading": "Welcome to My Site",
+  "metaDescription": "This is a demo website for scraping."
 }
 ```
 
