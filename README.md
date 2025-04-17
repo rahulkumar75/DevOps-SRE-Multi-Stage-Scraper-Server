@@ -42,7 +42,7 @@ scrape.js
 - Uses Puppeteer to:
   - Launch Chromium in headless mode
   - Navigate to the provided URL
-  - Extract the page title and first <h1>
+  - Extract the page title and first H1
   - Write data to scraped_data.json
 
 server.py
