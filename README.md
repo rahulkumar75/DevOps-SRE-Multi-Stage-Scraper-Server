@@ -1,4 +1,4 @@
-# DevOps & SRE Assignment - Multi-Stage Scraper & Server
+# DevOps & SRE - Multi-Stage Scraper & Server
 
 This project shows how to combine Node.js and Python in a clean,multi-stage Docker build:
 
